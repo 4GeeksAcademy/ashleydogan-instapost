@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    font-family: roboto;
+    padding: 10px;
+}
+.caption{
+    display:  wrap;
+    font-family: roboto;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 290px;
+    font-size: 12px;
+}
+.topline{
+    display:  wrap;
+    font-family: roboto;
+    padding: 10px;
+    font-size: 12px;
+}
+.fa-brands {
+    padding-right: 8px;
+    margin-top: 13px;
+}
+.fa-solid {
+    margin-left: 200px;
+    padding: 5px;
+}
+h5 {
+    margin: 0px;
+    font-size: 12px;
+    padding margin-top: 30px;
+}
+.fa-bookmark {
+    margin-left: 210px;
+}
+.icons {
+    margin-left: 8px;
+}
+span {
+    font-weight: normal;
+}
